@@ -3,7 +3,7 @@
 
 In this project we explore some data cleaning for the Bootcamp Project Unit.
 
-### Process 01 - Data Visualization, Selection & Modelling (case study).
+### Process #1 - Data Visualization, Selection & Modelling (case study).
 
 - Reading FIFA21 dataframe
 - Data visualization
@@ -11,11 +11,11 @@ In this project we explore some data cleaning for the Bootcamp Project Unit.
 - Analysing & Dealing with Data
 - Prediction Modelling
 
-### Process 02 - Module Predictions
+### Process #2 - Module Predictions
 
 - Presenting Some Module Predictions Graphs.
 
-### Process 03 - Top 3 Signings / Assumptions
+### Process #3 - Top 3 Signings / Assumptions
 
 - Budget < 6M€
 - Player Value < 2M€
